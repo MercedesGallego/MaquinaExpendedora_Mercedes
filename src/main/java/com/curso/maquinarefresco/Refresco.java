@@ -1,4 +1,4 @@
-package com.curso;
+package com.curso.maquinarefresco;
 
 public class Refresco {
 	//Atributos
@@ -39,7 +39,7 @@ public class Refresco {
 		}
 		}
 	public void reponer(int cantidad) {
-		this.stock+=cantidad;
+		this.stock+=cantidad; 
 		
 	}
 	@Override

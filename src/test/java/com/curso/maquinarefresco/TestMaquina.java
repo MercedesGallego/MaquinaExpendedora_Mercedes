@@ -1,8 +1,11 @@
-package com.curso;
+package com.curso.maquinarefresco;
 
 import static org.junit.Assert.fail;
 
 import org.junit.Test;
+
+import com.curso.maquinarefresco.MaquinaExpendedora;
+import com.curso.maquinarefresco.Refresco;
 
 public class TestMaquina {
 	
